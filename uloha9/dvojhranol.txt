@@ -1,0 +1,2 @@
+destilka = 1.332
+izopropylalkohol = 1.3775 stejne pri dennim svetle s kompenzatorem
